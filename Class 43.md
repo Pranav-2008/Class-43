@@ -14,15 +14,15 @@ Topic Elements of Game Design
 
 Topic Elements of Game Design
 
-| Standerd game design elements | Stuck in a box                                          |
-| ----------------------------- | ------------------------------------------------------- |
-| Playing character (PC)        | 1(Pac man)                                              |
-| Non Playing Characters (NPC)  | Obstacles, rewards, backround images                    |
-| Goal                          | To come out of the box with as many rewards as possible |
-| Rules                         |                                                         |
-| Balanced                      |                                                         |
-| Adaptivity                    |                                                         |
-| Feedback                      |                                                         |
-| Chance vs Skill               |                                                         |
-| Story                         |                                                         |
+| Standerd game design elements | Hill climbing                                                |
+| ----------------------------- | ------------------------------------------------------------ |
+| Playing character (PC)        | (1) Car                                                      |
+| Non Playing Characters (NPC)  | Obstacles, rewards, backround images                         |
+| Goal                          | To reach the end of road with the most coins                 |
+| Rules                         | Press the up arrow key to move forward and the and space key apply brakes and down arrow key to go backwards and press s to stop the car |
+| Balanced                      | The rewards are coins which we can use to get another faster car and there will be three lives |
+| Adaptivity                    | With different levels the rewards decreases and obstacles increases |
+| Feedback                      | When the level is finished the player gets 100 coins and if the player is stuck in an obsacle its lives gets reduced |
+| Chance vs Skill               | Different obstacles occur randomly (Chance) , to reach the end and and get as many rewards in the fastest possible way |
+| Story                         | There was a boy which wanted to ride a car but there are obstacles which are blocking him |
 
